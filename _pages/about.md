@@ -30,13 +30,14 @@ I am a PhD student in Computer Science at the University of Kentucky, advised by
 
 # 🔥 News
 - *2025.04*: 🎉 Presenting my paper at ISBI 2025 in Houston, TX!
-- *2025.03*: 🎉 Giving an invited talk at the KCS Seminar Spring 2025!
+- *2025.03*: 🎉 Giving a talk at the KCS Seminar Spring 2025!
+- *2025.01*: 🎉 Paper accepted at ISBI 2025!
 - *2024.10*: 🎉 Presented my paper at MICCAI ADSMI 2024 in Marrakesh, Morocco.
 
 # 📝 Publications 
 - **[Integrating Classification Model on Conditional Diffusion Model for Improving Fairness in Deep Learning-based Skin Lesion Classification](#)**, Under Review, 2025.
 - **[Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images](#)**, ISBI 2025.
-- **[DermDiff: Generative Diffusion Model for Mitigating Racial Biases in Dermatology Diagnosis](#)**, MICCAI ADSMI 2024 [Top 13%].
+- **[DermDiff: Generative Diffusion Model for Mitigating Racial Biases in Dermatology Diagnosis](https://arxiv.org/abs/2503.17536)**, MICCAI ADSMI 2024 [Top 13%].
 
 # 🎤 Presentations
 - **[Upcoming Oral]** ISBI 2025, Houston, TX - *Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias*
@@ -64,7 +65,7 @@ I am a PhD student in Computer Science at the University of Kentucky, advised by
 - **Graduate Teaching Assistant**, University of Kentucky  
     CS-216: Introduction to Software Engineering Techniques, Fall 2024
 
-# 📜 Memberships
+# 📜 Affiliations
 - MICCAI Student Member
 - IEEE Student Member
 - IEEE EMBS Member
