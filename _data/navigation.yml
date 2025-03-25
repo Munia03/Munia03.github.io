@@ -13,10 +13,10 @@ main:
     url: "/#-presentations"
 
   - title: "Education"
-    url: "/#-educations"
+    url: "/#-education"
 
   - title: "Awards & Fellowships"
-    url: "/#-honors-and-awards"
+    url: "/#-awards-and-fellowships"
 
   - title: "Affiliations"
     url: "/#-affiliations"
