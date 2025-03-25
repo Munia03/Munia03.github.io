@@ -10,19 +10,19 @@ main:
     url: "/#-publications"
 
   - title: "Presentations"
-    url: "/#-Presentations"
+    url: "/#-presentations"
 
   - title: "Educations"
     url: "/#-educations"
 
-
   - title: "Awards & Fellowships"
     url: "/#-honors-and-awards"
 
-
+  - title: "Affiliations"
+    url: "/#-affiliations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
   # - title: "Internships"
-    # url: "/#-internships"
+  #   url: "/#-internships"
