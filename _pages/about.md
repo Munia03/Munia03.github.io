@@ -19,8 +19,7 @@ redirect_from:
 
 ## About Me
 
-I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departments/cs) at the University of Kentucky, advised by [Dr. Abdullah-Al-Zubaer Imran](https://aaz-imran.github.io/).  
-My research focuses on computer vision, multimodal models, medical imaging, generative models, and fairness in AI. Previously, I worked as a Machine Learning Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com/) I earned both my master's and undergraduate degrees from the [Department of Computer Science and Engineering, University of Dhaka](https://cse.du.ac.bd/), Bangladesh.
+I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departments/cs) at the University of Kentucky, advised by [Dr. Abdullah-Al-Zubaer Imran](https://aaz-imran.github.io/). My research focuses on computer vision, multimodal models, medical imaging, generative models, and fairness in AI. Previously, I worked as a Machine Learning Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com/) I earned both my master's and undergraduate degrees from the [Department of Computer Science and Engineering, University of Dhaka](https://cse.du.ac.bd/), Bangladesh.
 
 
 
