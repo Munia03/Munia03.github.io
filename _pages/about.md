@@ -19,7 +19,9 @@ redirect_from:
 
 ## About Me
 
-I am a PhD student in Computer Science at the University of Kentucky, advised by Dr. Abdullah-Al-Zubaer Imran. My research focuses on computer vision, multimodal models, medical imaging, generative models, and fairness in AI. Previously, I worked as a Machine Learning Engineer at TigerIT Bangladesh Ltd. I have completed my master's and undergraduate degrees from the University of Dhaka, Bangladesh.
+I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departments/cs) at the University of Kentucky, advised by [Dr. Abdullah-Al-Zubaer Imran](https://aaz-imran.github.io/).  
+My research focuses on computer vision, multimodal models, medical imaging, generative models, and fairness in AI. Previously, I worked as a Machine Learning Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com/) I earned both my master's and undergraduate degrees from the [Department of Computer Science and Engineering, University of Dhaka](https://cse.du.ac.bd/), Bangladesh.
+
 
 
 ### Research Interests:
@@ -30,6 +32,7 @@ I am a PhD student in Computer Science at the University of Kentucky, advised by
 
 # 🔥 News
 - *2025.04*: 🎉 Presenting my paper at ISBI 2025 in Houston, TX!
+- *2025.04*: 🎉 Presenting at CCTS Spring Conference 2025 in Lexington, KY!
 - *2025.03*: 🎉 Giving a talk at the KCS Seminar Spring 2025!
 - *2025.01*: 🎉 Paper accepted at ISBI 2025!
 - *2024.10*: 🎉 Presented my paper at MICCAI ADSMI 2024 in Marrakesh, Morocco.
@@ -41,6 +44,7 @@ I am a PhD student in Computer Science at the University of Kentucky, advised by
 
 # 🎤 Presentations
 - **[Upcoming Oral]** ISBI 2025, Houston, TX - *Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias*
+- **[Oral]** CCTS 2025, Lexington, KY - *Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias*
 - **[Oral]** KCS Seminar - Spring 2025, Lexington, KY - *Generative Dermatology AI for Diagnostic Bias Mitigation*
 - **[Oral & Poster]** MICCAI ADSMI 2024, Marrakesh, Morocco - *DermDiff: Generative Diffusion Model for Mitigating Biases*
 
