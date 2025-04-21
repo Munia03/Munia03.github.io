@@ -30,19 +30,20 @@ I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departme
 - Computer Vision for Healthcare
 
 # 🔥 News
-- *2025.04*: 🎉 Presenting my paper at ISBI 2025 in Houston, TX!
+- *2025.04*: 🎉 Paper accepted at EMBC 2025!
+- *2025.04*: 🎉 Presenting paper at ISBI 2025 in Houston, TX!
 - *2025.04*: 🎉 Presenting at CCTS Spring Conference 2025 in Lexington, KY!
 - *2025.03*: 🎉 Giving a talk at the KCS Seminar Spring 2025!
 - *2025.01*: 🎉 Paper accepted at ISBI 2025!
 - *2024.10*: 🎉 Presented my paper at MICCAI ADSMI 2024 in Marrakesh, Morocco.
 
 # 📝 Publications 
-- **[Integrating Classification Model on Conditional Diffusion Model for Improving Fairness in Deep Learning-based Skin Lesion Classification](#)**, Under Review, 2025.
+- **[Integrating Classification Model on Conditional Diffusion Model for Improving Fairness in Deep Learning-based Skin Lesion Classification](#)**, EMBC 2025.
 - **[Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images](#)**, ISBI 2025.
 - **[DermDiff: Generative Diffusion Model for Mitigating Racial Biases in Dermatology Diagnosis](https://arxiv.org/abs/2503.17536)**, MICCAI ADSMI 2024 [Top 13%].
 
 # 🎤 Presentations
-- **[Upcoming Oral]** ISBI 2025, Houston, TX - *Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias*
+- **[Oral]** ISBI 2025, Houston, TX - *Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias*
 - **[Oral]** CCTS 2025, Lexington, KY - *Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias*
 - **[Oral]** KCS Seminar - Spring 2025, Lexington, KY - *Generative Dermatology AI for Diagnostic Bias Mitigation*
 - **[Oral & Poster]** MICCAI ADSMI 2024, Marrakesh, Morocco - *DermDiff: Generative Diffusion Model for Mitigating Biases*
@@ -56,7 +57,7 @@ I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departme
 **Software Engineer - Machine Learning** (TigerIT Bangladesh Ltd., 2021–2023)
 - Developed English-Bangla neural machine translation models.
 - Created models for Banglish language detection and transliteration.
-- Worked on backend development for Commchat messaging application.
+- Worked on backend development for CommChat messaging application.
 
 # 🏆 Awards & Fellowships
 - *2025:* **Graduate Student Block Funding**, University of Kentucky (Travel Grant for ISBI 2025)
