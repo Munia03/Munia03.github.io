@@ -19,17 +19,19 @@ redirect_from:
 
 ## About Me
 
-I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departments/cs) at the University of Kentucky, advised by [Dr. Abdullah-Al-Zubaer Imran](https://aaz-imran.github.io/). My research focuses on computer vision, multimodal models, medical imaging, generative models, and fairness in AI. Previously, I worked as a Machine Learning Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com/) I earned both my master's and undergraduate degrees from the [Department of Computer Science and Engineering, University of Dhaka](https://cse.du.ac.bd/), Bangladesh.
+I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departments/cs) at the University of Kentucky, advised by [Dr. Abdullah-Al-Zubaer Imran](https://aaz-imran.github.io/). My research focuses on computer vision, multimodal models, medical imaging, generative models, and fairness in AI. Previously, I worked as a Machine Learning Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com/). I earned both my master's and undergraduate degrees from the [Department of Computer Science and Engineering, University of Dhaka](https://cse.du.ac.bd/), Bangladesh.
 
 
 
 ### Research Interests:
 - Multimodal Data Analysis
-- Vision-Language Models
-- Generative Models for Fair AI
+- Vision Language Models
+- Generative Models
+- Medical Imaging
 - Computer Vision for Healthcare
 
 # 🔥 News
+- *2025.04*: 🎉 Short Paper accepted at CVPR workshop MMFM 2025!
 - *2025.04*: 🎉 Paper accepted at EMBC 2025!
 - *2025.04*: 🎉 Presenting paper at ISBI 2025 in Houston, TX!
 - *2025.04*: 🎉 Presenting at CCTS Spring Conference 2025 in Lexington, KY!
@@ -39,7 +41,7 @@ I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departme
 
 # 📝 Publications 
 - **[Integrating Classification Model on Conditional Diffusion Model for Improving Fairness in Deep Learning-based Skin Lesion Classification](#)**, EMBC 2025.
-- **[Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images](#)**, ISBI 2025.
+- **[Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images](https://arxiv.org/abs/2504.01838)**, ISBI 2025.
 - **[DermDiff: Generative Diffusion Model for Mitigating Racial Biases in Dermatology Diagnosis](https://arxiv.org/abs/2503.17536)**, MICCAI ADSMI 2024 [Top 13%].
 
 # 🎤 Presentations
