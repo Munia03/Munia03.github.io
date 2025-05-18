@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## About Me
+## Hi,
 
 I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departments/cs) at the University of Kentucky, advised by [Dr. Abdullah-Al-Zubaer Imran](https://aaz-imran.github.io/). My research focuses on computer vision, multimodal models, medical imaging, generative models, and fairness in AI. Previously, I worked as a Machine Learning Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com/). I earned both my master's and undergraduate degrees from the [Department of Computer Science and Engineering, University of Dhaka](https://cse.du.ac.bd/), Bangladesh.
 
@@ -40,7 +40,8 @@ I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departme
 - *2024.10*: 🎉 Presented my paper at MICCAI ADSMI 2024 in Marrakesh, Morocco.
 
 # 📝 Publications 
-- **[Integrating Classification Model on Conditional Diffusion Model for Improving Fairness in Deep Learning-based Skin Lesion Classification](#)**, EMBC 2025.
+- **[Differential Attention for Multimodal Crisis Event Analysis](#)**, CVPRw MMFM 2025.
+- **[Class-N-Diff: Classification-Induced Diffusion Model Can Make Fair Skin Cancer Diagnosis](#)**, EMBC 2025.
 - **[Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images](https://arxiv.org/abs/2504.01838)**, ISBI 2025.
 - **[DermDiff: Generative Diffusion Model for Mitigating Racial Biases in Dermatology Diagnosis](https://arxiv.org/abs/2503.17536)**, MICCAI ADSMI 2024 [Top 13%].
 
@@ -72,6 +73,7 @@ I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departme
     CS-216: Introduction to Software Engineering Techniques, Fall 2024
 
 # 📜 Affiliations
+- Treasurer, Association for Data and Computation, CS, UKy
 - MICCAI Student Member
 - IEEE Student Member
 - IEEE EMBS Member
