@@ -31,6 +31,7 @@ I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departme
 - Computer Vision for Healthcare
 
 # 🔥 News
+- *2025.09*: Presenting at the MIDL Young Researcher Showcase!
 - *2025.07*: Passed my PhD Qualifying Examination!
 - *2025.05*: Joined the Association of Data and Computation (ADC) as Treasurer!
 - *2025.04*: Short Paper accepted at CVPR workshop MMFM 2025!
