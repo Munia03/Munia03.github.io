@@ -142,7 +142,7 @@ I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departme
 - Graded lab assignments and examinations
 
 </div>
-# 🏆 Awards & Fellowships
+# 🏆 Awards and Fellowships
 - *2025:* **Graduate Student Block Funding**, University of Kentucky (Travel Grant for ISBI 2025)
 - *2021:* **Fellowship by ICT Division, Bangladesh**
 - *2019:* **Champion - Bracathon 3.0, Bangladesh**
