@@ -15,7 +15,10 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Awards and Fellowships"
+  - title: "Experience"
+    url: "/#-experience"
+
+  - title: "Awards"
     url: "/#-awards-and-fellowships"
 
   - title: "Affiliations"
