@@ -21,8 +21,8 @@ main:
   - title: "Awards"
     url: "/#-awards-and-fellowships"
 
-  - title: "Affiliations"
-    url: "/#-affiliations"
+  # - title: "Affiliations"
+  #   url: "/#-affiliations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
