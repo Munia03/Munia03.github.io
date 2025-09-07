@@ -21,6 +21,10 @@ main:
   - title: "Awards"
     url: "/#-awards-and-fellowships"
 
+  - title: "CV"
+    url: "files/cv.pdf"
+    target: "_blank"
+    
   # - title: "Affiliations"
   #   url: "/#-affiliations"
 
