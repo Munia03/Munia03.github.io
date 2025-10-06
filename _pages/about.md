@@ -31,6 +31,7 @@ I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departme
 - Computer Vision for Healthcare
 
 # 🔥 News
+- *2025.09*: Presenting poster at the CLIMBS Super Collider Event 2025!
 - *2025.09*: Presenting at the MIDL Young Researcher Showcase!
 - *2025.07*: Passed my PhD Qualifying Examination!
 - *2025.05*: Joined the Association of Data and Computation (ADC) as Treasurer!
@@ -46,7 +47,7 @@ I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departme
 - **Differential Attention for Multimodal Crisis Event Analysis** <br>
   ***Nusrat Munia***,  Abdullah-Al-Zubaer Imran <br>
   CVPRw MMFM3: The 3rd Workshop on What is Next in Multimodal Foundation Models? 2025. <br>
-  [arXiv](https://arxiv.org/abs/2507.05165) 
+  [arXiv](https://arxiv.org/abs/2507.05165) [Code](https://github.com/Munia03/Multimodal_Crisis_Event)
 
 - **Class-N-Diff: Classification-Induced Diffusion Model Can Make Fair Skin Cancer Diagnosis** <br>
   ***Nusrat Munia***, Abdullah-Al-Zubaer Imran <br>
