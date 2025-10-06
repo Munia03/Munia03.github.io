@@ -70,6 +70,8 @@ I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departme
   [arXiv](https://arxiv.org/abs/2503.17536) | [Code](https://github.com/Munia03/DermDiff) 
 
 # 🎤 Presentations
+- **[Oral]** YR Showcase Event 2025, Online - *Generative Diffusion Models for Fair Dermatology AI* [Event](https://www.midl.io/yr-showcase25)
+- **[Poster]** CLIMBS SuperCollider 2025, Lexington, KY - *Enhancing Multimodal Reasoning for Crisis Event Analysis with Vision Language Models and Attention Modules* [[PDF](files/posters/SuperCollider_Poster.pdf)]
 - **[Poster]** EMBC 2025, Copenhagen, Denmark - *Class-N-Diff: Classification-Induced Diffusion Model Can Make Fair Skin Cancer Diagnosis* [[PDF](files/posters/EMBC_poster.pdf)]
 - **[Poster]** CVPRw 2025, Nashville, TN - *Differential Attention for Multimodal Crisis Event Analysis* [[PDF](files/posters/cvpr25_poster.pdf)]
 - **[Oral]** ISBI 2025, Houston, TX - *Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias*
