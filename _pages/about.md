@@ -59,7 +59,7 @@ I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departme
   International Symposium on Biomedical Imaging (ISBI) 2025. <br>
   [Paper](https://arxiv.org/abs/2504.01838) | [Code](https://github.com/Munia03/DermDiT) 
 
-- **Evaluating Deep Learning Models for Breast Cancer Classification: A Comparative Stud** <br>
+- **Evaluating Deep Learning Models for Breast Cancer Classification: A Comparative Study** <br>
   Sania Eskandari, Ali Eslamian, ***Nusrat Munia***, Amjad Alqarni, Qiang Cheng <br>
   Medical Imaging 2025: Digital and Computational Pathology, 2025. <br>
   [Paper](https://arxiv.org/abs/2408.16859) 
