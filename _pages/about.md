@@ -47,27 +47,27 @@ I am a PhD student in [Computer Science](https://engr.uky.edu/academics/departme
 - **Differential Attention for Multimodal Crisis Event Analysis** <br>
   ***Nusrat Munia***,  Abdullah-Al-Zubaer Imran <br>
   CVPRw MMFM3: The 3rd Workshop on What is Next in Multimodal Foundation Models? 2025. <br>
-  [arXiv](https://arxiv.org/abs/2507.05165) [Code](https://github.com/Munia03/Multimodal_Crisis_Event)
+  [Paper](https://arxiv.org/abs/2507.05165) [Code](https://github.com/Munia03/Multimodal_Crisis_Event)
 
 - **Class-N-Diff: Classification-Induced Diffusion Model Can Make Fair Skin Cancer Diagnosis** <br>
   ***Nusrat Munia***, Abdullah-Al-Zubaer Imran <br>
   47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2025. <br>
-  [Code](https://github.com/Munia03/Class-N-Diff) 
+  [Paper](https://arxiv.org/abs/2510.16887) | [Code](https://github.com/Munia03/Class-N-Diff) 
 
 - **Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images** <br>
   ***Nusrat Munia***,  Abdullah-Al-Zubaer Imran <br>
   International Symposium on Biomedical Imaging (ISBI) 2025. <br>
-  [arXiv](https://arxiv.org/abs/2504.01838) | [Code](https://github.com/Munia03/DermDiT) 
+  [Paper](https://arxiv.org/abs/2504.01838) | [Code](https://github.com/Munia03/DermDiT) 
 
 - **Evaluating Deep Learning Models for Breast Cancer Classification: A Comparative Stud** <br>
   Sania Eskandari, Ali Eslamian, ***Nusrat Munia***, Amjad Alqarni, Qiang Cheng <br>
   Medical Imaging 2025: Digital and Computational Pathology, 2025. <br>
-  [arXiv](https://arxiv.org/abs/2408.16859) 
+  [Paper](https://arxiv.org/abs/2408.16859) 
 
 - **DermDiff: Generative Diffusion Model for Mitigating Racial Biases in Dermatology Diagnosis** <br>
   ***Nusrat Munia***,  Abdullah-Al-Zubaer Imran <br>
   MICCAI Workshop on Advancing Data Solutions in Medical Imaging AI 2024 [Top 13%]. <br>
-  [arXiv](https://arxiv.org/abs/2503.17536) | [Code](https://github.com/Munia03/DermDiff) 
+  [Paper](https://arxiv.org/abs/2503.17536) | [Code](https://github.com/Munia03/DermDiff) 
 
 # 🎤 Presentations
 - **[Oral]** YR Showcase Event 2025, Online - *Generative Diffusion Models for Fair Dermatology AI* [Event](https://www.midl.io/yr-showcase25)
